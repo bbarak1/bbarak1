@@ -1,4 +1,8 @@
 # hello-world
 another repository
 
-Im Ben and i like comics and hockey, and love going to restarants
+Hi my name is Ben?
+
+My favorite things are marvel and DC comic books and I love the sport hockey.
+
+I also love going to restarants with my friends and family.
